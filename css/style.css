@@ -246,8 +246,8 @@ p {
 }
 
 .image-container img {
-  width: 30rem;
-  height: 30rem;
+  width: 20rem;
+  height: 20rem;
   align-self: center;
   object-fit: cover;
   border-radius: 50%;
@@ -585,11 +585,11 @@ li > p {
 }
 .nav-footer {
   display: flex;
-  gap: 1.2rem;
+  gap: 1rem;
 }
 .nav-footer > button p {
   color: var(--color-paragraphs);
-  font-size: 1.8rem;
+  font-size: 1.4rem;
 }
 .social-media svg {
   width: 5rem;
