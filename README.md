@@ -45,7 +45,7 @@
 
 <hr />
 
-<h2>🎯 Key Features</h2>
+<h2>🎯 Key Features of this app</h2>
 <ul>
   <li>Responsive design</li>
   <li>Smooth scrolling and UI interactions</li>
