@@ -9,7 +9,7 @@
 
 <hr />
 
-<h2>🚀 Live Demo</h2>
+<h2>🚀 Live Demo of My App</h2>
 <p>
   <a href="https://portfolio-v1-alpha-topaz.vercel.app/" target="_blank">
     https://portfolio-v1-alpha-topaz.vercel.app/
